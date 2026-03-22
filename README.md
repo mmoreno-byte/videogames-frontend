@@ -28,6 +28,9 @@ Conectado a [videogames-api](https://github.com/mmoreno-byte/videogames-api) des
 npm install
 npm run dev
 ```
+## ⚠️ Aviso sobre la demo
+
+Esta aplicación es una **demo pública**. Cualquier usuario puede registrarse y gestionar el contenido. Los datos son compartidos entre todos los usuarios.
 
 ## 👤 Autor
 mmorenodev — [GitHub](https://github.com/mmoreno-byte)
