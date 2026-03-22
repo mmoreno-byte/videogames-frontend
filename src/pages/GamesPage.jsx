@@ -23,7 +23,7 @@ export default function GamesPage() {
       setGames(res.data);
     } catch {
       logoutUser();
-      navigate('/');
+      navigate('/videogames-frontend/games');
     } finally {
       setLoading(false);
     }

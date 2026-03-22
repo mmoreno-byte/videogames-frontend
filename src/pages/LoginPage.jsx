@@ -25,7 +25,7 @@ export default function LoginPage() {
       } else {
         const res = await login(username, password);
         loginUser(res.data.token);
-        navigate('/games');
+        navigate('/videogames-frontend/games');
       }
     } catch (err) {
       setError('Usuario o contraseña incorrectos');
