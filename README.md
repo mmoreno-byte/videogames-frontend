@@ -1,12 +1,12 @@
 # 🎮 Videogames Frontend
 
-Aplicación web para gestionar una colección de videojuegos, construida con React y Vite.
+Aplicación web para gestionar una colección de videojuegos, conectada a una API REST con autenticación JWT.
 
 ## 🌐 Ver en vivo
 [mmoreno-byte.github.io/videogames-frontend](https://mmoreno-byte.github.io/videogames-frontend/)
 
 ## ✨ Características
-- Autenticación con JWT (registro e inicio de sesión)
+- Registro e inicio de sesión con JWT
 - Listado de videojuegos con tarjetas interactivas
 - Buscador por título y filtro por género
 - Crear, editar y eliminar videojuegos
@@ -23,14 +23,14 @@ Aplicación web para gestionar una colección de videojuegos, construida con Rea
 ## 🔗 API
 Conectado a [videogames-api](https://github.com/mmoreno-byte/videogames-api) desplegada en Railway.
 
+## ⚠️ Demo pública
+Usuario de prueba: `demo` / `demo1234`
+
 ## 📦 Instalación local
-```bash
+\`\`\`bash
 npm install
 npm run dev
-```
-## ⚠️ Aviso sobre la demo
+\`\`\`
 
-Esta aplicación es una **demo pública**. Cualquier usuario puede registrarse y gestionar el contenido. Los datos son compartidos entre todos los usuarios.
-
-## 👤 Autor
-mmorenodev — [GitHub](https://github.com/mmoreno-byte)
+## 👤 Autora
+mmorenodev — [GitHub](https://github.com/mmoreno-byte) · [Portfolio](https://mmoreno-byte.github.io/mmorenodev/)
