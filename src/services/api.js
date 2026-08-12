@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://videogames-api-production-16b1.up.railway.app';
+const API_URL = 'https://videogames-api-wjej.onrender.com';
 
 const api = axios.create({
   baseURL: API_URL,
